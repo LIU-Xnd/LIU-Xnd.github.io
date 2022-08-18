@@ -1,4 +1,4 @@
-# $\color{blue}{\textbf{Notas}}$
+# $\color{blue}{Notas}$
 
 # Content
 
