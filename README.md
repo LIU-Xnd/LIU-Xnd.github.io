@@ -199,16 +199,18 @@
 	- tío/a	Uncle/aunt
 
 ## 非重读物主代词
-|人称|单数|复数|
-|---|---|---|
-|yo|mi|mis|
-|tú|tu|tus|
-|él|su|sus|
-|nosotros|nuestro/a|nuestros/as|
-|vosotros|vuestro/a|vuestros/as|
-|ellos|su|sus|
+
+人称|单数|复数
+--|--|--
+yo|mi|mis
+tú|tu|tus
+él|su|sus
+nosotros|nuestro/a|nuestros/as
+vosotros|vuestro/a|vuestros/as
+ellos|su|sus
 
 ## Presento del indicativo del verbo irregular IR
+
 Pronombre|ir
 --|--
 yo|voy
@@ -219,6 +221,7 @@ vosotros/as|vais
 ellos/as|van
 
 ## Uso de la preposición A
+
 - ¿Adónde van ustedes? (a dónde)
 - Los hermanos de José van al colegio. (a el)
 - Ahora vamos al hospital. (a el)
@@ -226,11 +229,12 @@ ellos/as|van
 ## Otra Gramática
 - Ellos son **menores que** él.
 
---
+---
 
 # Unidad 4
 
 ## Adjetivos o Pronombres demostrativos
+
 Palabras|Sing.|Plural
 --|--|--
 This|este/a|estos/as
@@ -242,6 +246,7 @@ That (away) |aquel/la|aquellos/llas
 	- Esto es un teléfono móvil.
 
 ## one-self
+
 pron.|self-pron
 --|--
 yo|me
