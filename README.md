@@ -1,6 +1,6 @@
 <h1 align="center">Notas</h1>
 
-# Content
+# ÍNDICE
 
 - [Unidad 1](#unidad-1)
   * [VOCABULARIO](#vocabulario)
