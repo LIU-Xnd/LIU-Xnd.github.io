@@ -253,5 +253,7 @@ ellos|se acuestan|comienzan|dicen|hacen|salen|vienen|vuelven
 ## Otras
 
 este->ese->aquel
+
 aquí->ahí->allí->allá
+
 acá->allá
