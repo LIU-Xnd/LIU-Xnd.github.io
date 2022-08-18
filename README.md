@@ -1,5 +1,25 @@
-# spanishLearning2022 - Declare
-Privately used for Spanish language learning.
+# $\color{blue}{\textbf{Notas}}$
+
+# Content
+
+- [Unidad 1](#unidad-1)
+  * [VOCABULARIO](#vocabulario)
+  * [GRAMÁTICA](#gramática)
+- [Unidad 2](#unidad-2)
+  * [GRAMÁTICA](#gramática-1)
+  * [VOCAB](#vocab)
+- [Unidad 3](#unidad-3)
+  * [VOCABULARIO](#vocabulario-1)
+  * [非重读物主代词](#非重读物主代词)
+  * [Presento del indicativo del verbo irregular IR](#presento-del-indicativo-del-verbo-irregular-ir)
+  * [Uso de la preposición A](#uso-de-la-preposición-a)
+  * [Otra Gramática](#otra-gramática)
+- [Unidad 4](#unidad-4)
+  * [Adjetivos/Pronombres demostrativos](#adjetivos-o-pronombres-demostrativos)
+  * [one-self](#one-self)
+  * [Acostarse comenzar decir hacer salir venir volver](#acostarse-comenzar-decir-hacer-salir-venir-volver)
+  * [Otras](#otras)
+
 
 # Unidad 1
 - 问候
@@ -210,7 +230,7 @@ ellos/as|van
 
 # Unidad 4
 
-## Adjetivos/Pronombres demostrativos
+## Adjetivos o Pronombres demostrativos
 Palabras|Sing.|Plural
 --|--|--
 This|este/a|estos/as
@@ -239,7 +259,7 @@ ellos|se
 
 代词式动词也称自复动词, 动作返回施事本身.
 
-## Acostarse, comenzar, decir, hacer, salir, venir, volver
+## Acostarse comenzar decir hacer salir venir volver
 
 pron|acostarse|comenzar|decir|hacer|salir|venir|volver
 --|--|--|--|--|--|--|--
