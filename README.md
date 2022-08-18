@@ -1,4 +1,4 @@
-# $\color{blue}{Notas}$
+<h1 align="center">Notas</h1>
 
 # Content
 
