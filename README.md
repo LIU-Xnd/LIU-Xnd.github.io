@@ -2,7 +2,6 @@
         <a href="javascript:;" id="btn">顶部</a>
 </div>
 
-<body>
 <script type="text/javascript">
         window.onload = function () {
             // 1.找到页面中的按钮
@@ -41,7 +40,6 @@
         }
  
     </script>
-    </body>
 
 <h1 align="center">Hi,</h1>
 
